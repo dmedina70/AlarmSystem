@@ -1,4 +1,4 @@
-# SMT Alarm Monitor Server
+# Alarm Monitor Server
 
 A fullscreen alarm monitoring dashboard for SMT production lines. Displays line statuses as color-coded tiles, plays audio alerts on alarm triggers, replays unresolved alarms at configurable intervals, and sends webhook notifications.
 
